@@ -15,6 +15,9 @@ PRs for the README welcome as well.
 
 ###Companies with open junior positions:
 
-###Companies that hired and promoted juniors:
+###Companies already supporting juniors:
+Companies that hired and promoted juniors by improving their knowledge.  
+For what that means in detail we created this repo and would like to hear your opinion in the issues.
+
 - [Dawanda](http://jobs.dawanda.com/de/)
 - [bitcrowd](http://bitcrowd.net)
