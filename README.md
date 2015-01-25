@@ -8,8 +8,6 @@ The idea for the repo resulted from a [tweet](https://twitter.com/bitboxer/statu
 
 We can create an issues and discuss in order to create a guideline of how to teach juniors.
 
-If you feel like [turning these information into an app](https://twitter.com/sferik/status/558979272816091136) with your learners group please feel more than welcome to do so!
-
 Want to add your company? Create a PR or talk to Bodo`@bitboxer` or Malwine `@malweene`.  
 Bodo is a developer at bitcrowd and is currently preparing their Junior Developer Curriculum.
 Malwine works as a junior at Dawanda. Both want to encourage companies to hire and support juniors.
@@ -29,3 +27,4 @@ For what that means in detail we created this repo and would like to hear your o
 
 ---
 PRs for the README are welcome as well.  
+If you feel like [turning these information into an app](https://twitter.com/sferik/status/558979272816091136) with your learners group please feel more than welcome to do so!
