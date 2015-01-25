@@ -10,8 +10,9 @@ We can create an issues and discuss in order to create a guideline of how to tea
 
 If you feel like [turning these information into an app](https://twitter.com/sferik/status/558979272816091136) with your learners group please feel more than welcome to do so!
 
-Want to add your company? Talk to me `@malweene` or Bodo`@bitboxer` or create a PR.  
-PRs for the README welcome as well.  
+Want to add your company? Create a PR or talk to Bodo`@bitboxer` or Malwine `@malweene`.  
+Bodo is a developer at bitcrowd and is currently preparing their Junior Developer Curriculum.
+Malwine works as a junior at Dawanda. Both want to encourage companies to hire and support juniors.
 
 ###Companies with open junior positions:
 Companies that want to hire juniors in the future.   
@@ -23,3 +24,8 @@ For what that means in detail we created this repo and would like to hear your o
 
 - [Dawanda](http://jobs.dawanda.com/de/)
 - [bitcrowd](http://bitcrowd.net)
+  
+  
+
+---
+PRs for the README are welcome as well.  
