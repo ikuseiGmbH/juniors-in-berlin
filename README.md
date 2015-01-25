@@ -14,6 +14,8 @@ Want to add your company? Talk to me `@malweene` or Bodo`@bitboxer` or create a 
 PRs for the README welcome as well.  
 
 ###Companies with open junior positions:
+Companies that want to hire juniors in the future.   
+[ Insert your company here!! ]
 
 ###Companies already supporting juniors:
 Companies that hired and promoted juniors by improving their knowledge.  
