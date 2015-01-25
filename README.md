@@ -22,6 +22,7 @@ For what that means in detail we created this repo and would like to hear your o
 
 - [Dawanda](http://jobs.dawanda.com/de/)
 - [bitcrowd](http://bitcrowd.net)
+- [Travis CI](http://travis-ci.com)
 - [ Insert your company here!! ]
   
 
