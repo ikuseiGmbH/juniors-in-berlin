@@ -17,3 +17,4 @@ PRs for the README welcome as well.
 
 ###Companies supporting juniors:
 - [Dawanda](http://jobs.dawanda.com/de/)
+- [bitcrowd](http://bitcrowd.net)
