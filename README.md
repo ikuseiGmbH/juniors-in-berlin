@@ -2,7 +2,7 @@
 
 ###Objectives
 This repository is a starting point to collect information about companies in Berlin **supporting junior developers**.  
-Moreover it collects offers for **intern and junior positions**.  
+Moreover it collects offers for **intern and junior positions** to give beginners an idea where they could apply.  
 It also aims to create guidelines for **how to teach** juniors in your company.  
 We can create issues and discuss in order to create a guideline of how to teach juniors.
 
