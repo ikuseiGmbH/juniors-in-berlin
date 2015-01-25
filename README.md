@@ -10,7 +10,7 @@ We can create an issues and discuss in order to create a guideline of how to tea
 
 If you feel like [turning these information into an app](https://twitter.com/sferik/status/558979272816091136) with your learners group please feel more than welcome to do so!
 
-Want to add your company? Talk to me or Bodo or create a PR.  
+Want to add your company? Talk to me `@malweene` or Bodo`@bitboxer` or create a PR.  
 PRs for the README welcome as well.  
 
 ###Companies with open junior positions:
