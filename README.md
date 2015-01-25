@@ -1,14 +1,16 @@
 # Juniors in Berlin
+
+###Objectives
 This repository is a starting point to collect information about companies in Berlin **supporting junior developers**.  
 Moreover it collects offers for **intern and junior positions**.  
-It also aims to create guidelines for **how to teach** juniors in your company.
+It also aims to create guidelines for **how to teach** juniors in your company.  
+We can create issues and discuss in order to create a guideline of how to teach juniors.
 
+###About us
 The idea for the repo resulted from a [tweet](https://twitter.com/bitboxer/status/558921160562597890) from Bodo:
 > Does someone have a list of companies in Berlin offering internships or hire junior developers? Want to talk how you guide and teach them.  
 
-We can create an issues and discuss in order to create a guideline of how to teach juniors.
-
-Want to add your company? Create a PR or talk to Bodo`@bitboxer` or Malwine `@malweene`.  
+**Want to take part?** Create a PR or talk to Bodo`@bitboxer` or Malwine `@malweene`.  
 Bodo is a developer at bitcrowd and is currently preparing their Junior Developer Curriculum.
 Malwine works as a junior at Dawanda. Both want to encourage companies to hire and support juniors.
 You can’t hire seniors without someone giving juniors a chance. And that someone should be you ;)
