@@ -15,6 +15,6 @@ PRs for the README welcome as well.
 
 ###Companies with open junior positions:
 
-###Companies supporting juniors:
+###Companies that hired and promoted juniors:
 - [Dawanda](http://jobs.dawanda.com/de/)
 - [bitcrowd](http://bitcrowd.net)
