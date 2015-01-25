@@ -18,7 +18,7 @@ You can’t hire seniors without someone giving juniors a chance. And that someo
 ###Companies with open junior positions:
 Companies that want to hire juniors in the future.   
 - [trecker.com](http://trecker.com)
-[ Insert your company here!! ]
+- [ Insert your company here!! ]
 
 ###Companies already supporting juniors:
 Companies that hired and promoted juniors by improving their knowledge.  
