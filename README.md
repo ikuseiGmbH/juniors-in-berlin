@@ -21,7 +21,6 @@ You can’t hire seniors without someone giving juniors a chance. And that someo
 
 Companies that want to hire juniors in the future.   
 
-- [trecker.com](http://trecker.com)
 - [ Insert your company here!! ]
 
 ### Companies with open internship positions
@@ -40,6 +39,7 @@ For what that means in detail we created this repo and would like to hear your o
 - [Travis CI](http://travis-ci.com)
 - [testcloud](https://www.testcloud.io)
 - [Hitfox](http://www.hitfoxgroup.com)
+- [trecker.com](http://trecker.com)
 - [ Insert your company here!! ]
   
 
