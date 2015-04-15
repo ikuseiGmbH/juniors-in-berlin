@@ -21,12 +21,14 @@ You can’t hire seniors without someone giving juniors a chance. And that someo
 
 Companies that want to hire juniors in the future.   
 
+- [ikusei](http://ikusei.de)
 - [ Insert your company here!! ]
 
 ### Companies with open internship positions
 
 Companies that want to hire interns in the future.
 
+- [ikusei](http://ikusei.de)
 - [ Insert your company here!! ]
 
 ### Companies already supporting juniors:
@@ -40,6 +42,7 @@ For what that means in detail we created this repo and would like to hear your o
 - [testcloud](https://www.testcloud.io)
 - [Hitfox](http://www.hitfoxgroup.com)
 - [trecker.com](http://trecker.com)
+- [ikusei](http://ikusei.de)
 - [ Insert your company here!! ]
   
 
