@@ -24,7 +24,6 @@ Companies that want to hire juniors in the future.
 
 - [ikusei](http://ikusei.de)
 - [Barzahlen](http://barzahlen.de)
-- [trecker.com](http://trecker.com)
 - [ Insert your company here!! ]  
 
 ### Companies with open internship positions
