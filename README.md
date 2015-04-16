@@ -21,8 +21,11 @@ You can’t hire seniors without someone giving juniors a chance. And that someo
 
 Companies that want to hire juniors in the future.   
 
+
 - [ikusei](http://ikusei.de)
-- [ Insert your company here!! ]
+- [Barzahlen](http://barzahlen.de)
+- [trecker.com](http://trecker.com)
+- [ Insert your company here!! ]  
 
 ### Companies with open internship positions
 
