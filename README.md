@@ -45,6 +45,7 @@ For what that means in detail we created this repo and would like to hear your o
 - [Hitfox](http://www.hitfoxgroup.com)
 - [trecker.com](http://trecker.com)
 - [ikusei](http://ikusei.de)
+- [makerist](https://www.makerist.de)
 - [ Insert your company here!! ]
   
 
@@ -52,4 +53,4 @@ For what that means in detail we created this repo and would like to hear your o
 
 ---
 PRs for the README are welcome as well.  
-If you feel like [turning these information into an app](https://twitter.com/sferik/status/558979272816091136) with your learners group please feel more than welcome to do so!
+If you feel like [turning this information into an app](https://twitter.com/sferik/status/558979272816091136) with your learners group please feel more than welcome to do so!
