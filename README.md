@@ -13,8 +13,8 @@ Many companies state that they have no time, money and capacity for juniors. But
 
 ### About us
 
-Bodo is a developer at bitcrowd and is currently preparing their Junior Developer Curriculum.
-Malwine works as a junior at Dawanda. Both want to encourage companies to hire and support juniors.
+Bodo is a developer at bitcrowd and is currently preparing their Junior Developer Curriculum.  
+Malwine works as a junior at Dawanda. Both want to encourage companies to hire and support juniors.  
 The idea for the repo resulted from a [tweet](https://twitter.com/bitboxer/status/558921160562597890) from Bodo:
 > Does someone have a list of companies in Berlin offering internships or hire junior developers? Want to talk how you guide and teach them.  
 
