@@ -1,15 +1,15 @@
 # Let's support Juniors
 
-### Objectives
-
 This repository is a starting point to collect information about companies worldwide **supporting junior developers**.  
-Moreover, it collects offers for **intern and junior positions** to give beginners an idea where they could apply.  
-It also aims to create guidelines for **how to teach** juniors in your company.  
-We can create issues and discuss in order to create a guideline of how to teach juniors.  
+
+**Juniors** are developers that are at the beginning of their career. Maybe they are working students studying computer science or teached themselfes at home. Maybe they joined a bootcamp or Rails Girls Summer of Code. Though they might have some knowledge they are incredibly eager to explore more and learn best practice from their future colleagues.  
 
 ### Situation  
 
-Many companies state that they have no time, money and capacity for juniors. But if all companies continue with these mindset there won't be any seniors in the future. Let's help the juniors grow! 
+Many companies state that they have no time, money and capacity for juniors. But if all companies continue with that mindset there won't be any seniors in the future. Let's help the juniors grow!  
+
+We want to collect offers for **intern and junior positions** to give beginners an idea where they could apply.  
+Moreover, we want to discuss guidelines for **how to teach** juniors in your company.  
 
 ### About us
 
