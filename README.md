@@ -8,13 +8,12 @@ This repository is a starting point to collect information about companies world
 
 Many companies state that they have no time, money and capacity for juniors. But if all companies continue with that mindset there won't be any seniors in the future. Let's help the juniors grow!  
 
-We want to collect offers for **intern and junior positions** to give beginners an idea where they could apply.  
-Moreover, we want to discuss guidelines for **how to teach** juniors in your company.  
+We want to collect offers for **intern and junior positions** to give beginners an idea where they could apply. Moreover, we want to discuss guidelines for **how to teach** juniors in your company.  
 
 ### About us
 
 Bodo is a developer at bitcrowd and is currently preparing their Junior Developer Curriculum.  
-Malwine works as a junior at Dawanda. Both want to encourage companies to hire and support juniors.  
+Malwine works as a junior at DaWanda. Both want to encourage companies to hire and support juniors.  
 The idea for the repo resulted from a [tweet](https://twitter.com/bitboxer/status/558921160562597890) from Bodo:
 > Does someone have a list of companies in Berlin offering internships or hire junior developers? Want to talk how you guide and teach them.  
 
