@@ -22,8 +22,8 @@ The idea for the repo resulted from a [tweet](https://twitter.com/bitboxer/statu
 Create a Pull Request describing shortly your company.  
 Plase add a link to you company and the location of your developer team.  
 **Example:**
-- [ExampleCompany](https://github.com/Malwine/juniors-in-berlin/edit/master/README.md) [Berlin, Germany]  
-- [OtherExampleCompany](https://github.com/Malwine/juniors-in-berlin/edit/master/README.md) [London, UK and remote]  
+- [ExampleCompany](https://github.com/Malwine/juniors-in-berlin/blob/master/README.md) [Berlin, Germany]  
+- [OtherExampleCompany](https://github.com/Malwine/juniors-in-berlin/blob/master/README.md) [London, UK and remote]  
 
 You can also talk/mail to [Bodo](https://twitter.com/bitboxer) or [Malwine](https://twitter.com/malweene).  
 
