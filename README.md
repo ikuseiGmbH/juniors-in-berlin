@@ -25,6 +25,7 @@ Plase add a link to you company and the location of your developer team.
 - [OtherExampleCompany](https://github.com/Malwine/juniors-in-berlin/blob/master/README.md) [London, UK and remote]  
 
 You can also talk/mail to [Bodo](https://twitter.com/bitboxer) or [Malwine](https://twitter.com/malweene).  
+Please note that this repository has a [Code of Conduct](http://berlincodeofconduct.org/).
 
 ### Companies with open junior positions:
 
@@ -56,8 +57,6 @@ For what that means in detail we created this repo and would like to hear your o
 - [ikusei](http://ikusei.de)
 - [makerist](https://www.makerist.de)
 - [ Insert your company here!! ]
-  
-
 
 
 ---
