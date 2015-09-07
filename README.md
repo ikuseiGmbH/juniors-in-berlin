@@ -54,7 +54,7 @@ For what that means in detail we created this repo and would like to hear your o
 - [testcloud](https://www.testcloud.io)
 - [Hitfox](http://www.hitfoxgroup.com) [Berlin, Germany]
 - [trecker.com](http://trecker.com) [Berlin, Germany]
-- [ikusei](http://ikusei.de)
+- [ikusei](http://ikusei.de) [Berlin, Germany]
 - [makerist](https://www.makerist.de)
 - [ Insert your company here!! ]
 
