@@ -32,7 +32,7 @@ Please note that this repository has a [Code of Conduct](http://berlincodeofcond
 Companies that want to hire juniors in the future.   
 
 
-- [ikusei](http://ikusei.de)
+- [ikusei](http://ikusei.de) [Berlin, Germany]
 - [Barzahlen](http://barzahlen.de)
 - [ Insert your company here!! ]  
 
@@ -40,7 +40,7 @@ Companies that want to hire juniors in the future.
 
 Companies that want to hire interns in the future.
 
-- [ikusei](http://ikusei.de)
+- [ikusei](http://ikusei.de) [Berlin, Germany]
 - [ Insert your company here!! ]
 
 ### Companies already supporting juniors:
