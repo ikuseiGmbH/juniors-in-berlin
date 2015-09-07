@@ -48,7 +48,7 @@ Companies that want to hire interns in the future.
 Companies that hired and promoted juniors by improving their knowledge.  
 For what that means in detail we created this repo and would like to hear your opinion in the issues.
 
-- [Dawanda](http://jobs.dawanda.com/de/) [Berlin, Germany]
+- [DaWanda](http://jobs.dawanda.com/de/) [Berlin, Germany]
 - [bitcrowd](http://bitcrowd.net) [Berlin, Germany]
 - [Travis CI](http://travis-ci.com) [Berlin, Germany]
 - [testcloud](https://www.testcloud.io)
