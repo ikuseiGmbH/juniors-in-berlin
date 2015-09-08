@@ -31,7 +31,7 @@ Ruby, Rails, Scala, CoffeeScript, Sinatra, Docker and [more](http://stackshare.i
 
 **2. Total amount of devs including juniors:** 
 
-**3. Amount juniors: **
+**3. Amount juniors:**
 
 **4. Stack & main technologies** 
 
