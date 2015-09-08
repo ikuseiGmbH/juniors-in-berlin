@@ -31,14 +31,8 @@ Please note that this repository has a [Code of Conduct](http://berlincodeofcond
 
 Companies that want to hire juniors in the future.   
 
-
-<<<<<<< HEAD
-- [ikusei](http://ikusei.de)
 - [Barzahlen](http://barzahlen.de) [Berlin, Germany]
-=======
 - [ikusei](http://ikusei.de) [Berlin, Germany]
-- [Barzahlen](http://barzahlen.de)
->>>>>>> f2cbfd052a541e25ab45ad756d4b1035f8d6be3b
 - [ Insert your company here!! ]  
 
 ### Companies with open internship positions
