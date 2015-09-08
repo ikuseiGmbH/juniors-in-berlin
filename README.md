@@ -13,12 +13,12 @@ We want to collect offers for **intern and junior positions** to give beginners 
 ### About us
 
 Bodo is a developer at bitcrowd and is currently preparing their Junior Developer Curriculum.  
-Malwine works as a junior at DaWanda. Both want to encourage companies to hire and support juniors.  
+Malwine works as a junior at DaWanda. Both want to encourage companies to hire and support juniors. 
 The idea for the repo resulted from a [tweet](https://twitter.com/bitboxer/status/558921160562597890) from Bodo.  
 
 ### How to contribute
 Create a Pull Request answering the questions from [issue/19](https://github.com/Malwine/support-juniors/issues/19).  
-Plase add a link to you company and the location of your developer team.  
+Please add a link to you company and the location of your developer team.  
 **Example:**
 - [ExampleCompany](https://github.com/Malwine/juniors-in-berlin/blob/master/README.md) [Berlin, Germany]  
 - [OtherExampleCompany](https://github.com/Malwine/juniors-in-berlin/blob/master/README.md) [London, UK and remote]  
