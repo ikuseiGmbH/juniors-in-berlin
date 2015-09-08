@@ -2,7 +2,7 @@
 
 This repository is a starting point to collect information about companies worldwide **supporting junior developers**.  
 
-**Juniors** are developers that are at the beginning of their career. Maybe they are working students studying computer science or teached themselfes at home. Maybe they joined a bootcamp or Rails Girls Summer of Code. Though they might have some knowledge they are incredibly eager to explore more and learn best practice from their future colleagues.  
+**Juniors** are developers who are at the beginning of their career. Maybe they are working students studying computer science or teached themselfes at home. Maybe they joined a bootcamp or Rails Girls Summer of Code. Though they might have some knowledge they are incredibly eager to explore more and learn best practice from their future colleagues.  
 
 ### Situation  
 
@@ -13,13 +13,12 @@ We want to collect offers for **intern and junior positions** to give beginners 
 ### About us
 
 Bodo is a developer at bitcrowd and is currently preparing their Junior Developer Curriculum.  
-Malwine works as a junior at DaWanda. Both want to encourage companies to hire and support juniors.  
-The idea for the repo resulted from a [tweet](https://twitter.com/bitboxer/status/558921160562597890) from Bodo:
-> Does someone have a list of companies in Berlin offering internships or hire junior developers? Want to talk how you guide and teach them.  
+Malwine works as a junior at DaWanda. Both want to encourage companies to hire and support juniors. 
+The idea for the repo resulted from a [tweet](https://twitter.com/bitboxer/status/558921160562597890) from Bodo.  
 
-### Want to take part?
-Create a Pull Request describing shortly your company.  
-Plase add a link to you company and the location of your developer team.  
+### How to contribute
+Create a Pull Request answering the questions from [issue/19](https://github.com/Malwine/support-juniors/issues/19).  
+Please add a link to you company and the location of your developer team.  
 **Example:**
 - [ExampleCompany](https://github.com/Malwine/juniors-in-berlin/blob/master/README.md) [Berlin, Germany]  
 - [OtherExampleCompany](https://github.com/Malwine/juniors-in-berlin/blob/master/README.md) [London, UK and remote]  
@@ -31,9 +30,8 @@ Please note that this repository has a [Code of Conduct](http://berlincodeofcond
 
 Companies that want to hire juniors in the future.   
 
-
+- [Barzahlen](http://barzahlen.de) [Berlin, Germany]
 - [ikusei](http://ikusei.de) [Berlin, Germany]
-- [Barzahlen](http://barzahlen.de)
 - [ Insert your company here!! ]  
 
 ### Companies with open internship positions
