@@ -11,7 +11,7 @@ We are the online marketplace for unique and handmade items, where designers and
 
 **3. Amount juniors:**  About 5.
 
-**4. Stack & main technologies**  
+**4. Stack & main technologies:**  
 Ruby, Rails, Scala, CoffeeScript, Sinatra, Docker and [more](http://stackshare.io/dawanda-gmbh).  
 
 **5. How do you support juniors?** We have a 90 min learning sessions every week where everybody can attend and suggest topics, we do pair programming. Every junior has at least one responsible senior to approach if help is needed.
@@ -33,7 +33,7 @@ Ruby, Rails, Scala, CoffeeScript, Sinatra, Docker and [more](http://stackshare.i
 
 **3. Amount juniors:**
 
-**4. Stack & main technologies** 
+**4. Stack & main technologies:** 
 
 **5. How do you support juniors? If you have no juniors, how do you want to support them in the future?** (e.g. learning sessions, pair programming)
 
