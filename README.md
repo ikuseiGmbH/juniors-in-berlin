@@ -18,7 +18,7 @@ The idea for the repo resulted from a [tweet](https://twitter.com/bitboxer/statu
 > Does someone have a list of companies in Berlin offering internships or hire junior developers? Want to talk how you guide and teach them.  
 
 ### Want to take part?
-Create a Pull Request describing shortly your company.  
+Create a Pull Request answering the questions from [issue/19](https://github.com/Malwine/support-juniors/issues/19).  
 Plase add a link to you company and the location of your developer team.  
 **Example:**
 - [ExampleCompany](https://github.com/Malwine/juniors-in-berlin/blob/master/README.md) [Berlin, Germany]  
