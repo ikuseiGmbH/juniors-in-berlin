@@ -17,7 +17,7 @@ Malwine works as a junior at DaWanda. Both want to encourage companies to hire a
 The idea for the repo resulted from a [tweet](https://twitter.com/bitboxer/status/558921160562597890) from Bodo:
 > Does someone have a list of companies in Berlin offering internships or hire junior developers? Want to talk how you guide and teach them.  
 
-### Want to take part?
+### How to contribute
 Create a Pull Request answering the questions from [issue/19](https://github.com/Malwine/support-juniors/issues/19).  
 Plase add a link to you company and the location of your developer team.  
 **Example:**
