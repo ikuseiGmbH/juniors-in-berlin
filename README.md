@@ -33,7 +33,7 @@ Companies that want to hire juniors in the future.
 
 
 - [ikusei](http://ikusei.de)
-- [Barzahlen](http://barzahlen.de)
+- [Barzahlen](http://barzahlen.de) [Berlin, Germany]
 - [ Insert your company here!! ]  
 
 ### Companies with open internship positions
